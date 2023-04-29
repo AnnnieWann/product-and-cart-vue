@@ -2,7 +2,7 @@
   "name": "product-and-cart-vue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AnnnieWann/product-and-cart-vue.git",
+  "homepage": "https://annniewann.github.io/product-and-cart-vue/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
