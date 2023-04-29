@@ -1,4 +1,6 @@
 # product-and-cart-vue
+![product demo](./src/assets/products-and-cart-vue.gif)
+
 
 ## Project setup
 ```
